@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hodanaseri.
+- 👋 Hi, I’m @hodanaseri.
 - 👀 I’m interested in statistics and data science.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on all topics related to data science.
