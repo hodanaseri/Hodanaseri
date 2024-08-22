@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hodanaseri.
 - 👀 I’m interested in Statistics and Data Science.
-- 💞️ I’m looking to collaborate on all topics related to data science.
+- 💞️ I’m looking to collaborate on all topics related to Data Science.
 - 📫 How to reach me: hodaanaserii@gmail.com
 
 <!---
