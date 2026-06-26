@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hodanaseri.
-- 👀 I'm a data science student with a strong background in statistics, interested in AI and its application in medicine, healthcare and astronomy.
+- 👀 I'm a data scientist with a strong background in statistics, interested in AI and its application in medicine, healthcare and astronomy.
 - 📫 How to reach me: hodaanaserii@gmail.com
 
 <!---
